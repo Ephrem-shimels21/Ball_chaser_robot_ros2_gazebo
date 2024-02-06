@@ -1,0 +1,47 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+-- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+-- xacro: determining deps for: /home/ephrem/bocbot_ws/src/bocbot/urdf/bocbot.urdf.xacro ...
+-- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ephrem/bocbot_ws/build/bocbot
+[100%] [34m[1mxacro: generating /home/ephrem/bocbot_ws/src/bocbot/urdf/bocbot.urdf from /home/ephrem/bocbot_ws/src/bocbot/urdf/bocbot.urdf.xacro[0m
+[100%] Built target media_files
+-- Install configuration: ""
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/worlds
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/worlds/bocbot_office.world
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.urdf
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.gazebo
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.urdf.xacro
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/package_run_dependencies/bocbot
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/parent_prefix_path/bocbot
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/ament_prefix_path.sh
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/ament_prefix_path.dsv
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/path.sh
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/path.dsv
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.bash
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.sh
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.zsh
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.dsv
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/package.dsv
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/packages/bocbot
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/cmake/bocbotConfig.cmake
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/cmake/bocbotConfig-version.cmake
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/package.xml

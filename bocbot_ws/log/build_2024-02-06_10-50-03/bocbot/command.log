@@ -1,0 +1,4 @@
+Invoking command in '/home/ephrem/bocbot_ws/build/bocbot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ephrem/bocbot_ws/build/bocbot -- -j4 -l4
+Invoked command in '/home/ephrem/bocbot_ws/build/bocbot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ephrem/bocbot_ws/build/bocbot -- -j4 -l4
+Invoking command in '/home/ephrem/bocbot_ws/build/bocbot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ephrem/bocbot_ws/build/bocbot
+Invoked command in '/home/ephrem/bocbot_ws/build/bocbot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ephrem/bocbot_ws/build/bocbot

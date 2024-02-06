@@ -1,0 +1,25 @@
+[100%] Built target media_files
+-- Install configuration: ""
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/worlds
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/worlds/boc_office.world
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.urdf
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.gazebo
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.urdf.xacro
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/launch
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/launch/world.launch.py
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/package_run_dependencies/bocbot
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/parent_prefix_path/bocbot
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/ament_prefix_path.sh
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/path.sh
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/path.dsv
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.bash
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.sh
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.zsh
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.dsv
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/package.dsv
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/packages/bocbot
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/cmake/bocbotConfig.cmake
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/cmake/bocbotConfig-version.cmake
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/package.xml

@@ -1,0 +1,29 @@
+[0.179s] Invoking command in '/home/ephrem/bocbot_ws/build/bocbot': /usr/bin/cmake --build /home/ephrem/bocbot_ws/build/bocbot -- -j4 -l4
+[1.413s] [100%] Built target media_files
+[1.426s] Invoked command in '/home/ephrem/bocbot_ws/build/bocbot' returned '0': /usr/bin/cmake --build /home/ephrem/bocbot_ws/build/bocbot -- -j4 -l4
+[1.459s] Invoking command in '/home/ephrem/bocbot_ws/build/bocbot': /usr/bin/cmake --install /home/ephrem/bocbot_ws/build/bocbot
+[1.468s] -- Install configuration: ""
+[1.469s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/worlds
+[1.469s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/worlds/bocbot_office.world
+[1.469s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf
+[1.470s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.urdf
+[1.470s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.gazebo
+[1.470s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.urdf.xacro
+[1.470s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/launch
+[1.470s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/launch/world.launch.py
+[1.470s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/package_run_dependencies/bocbot
+[1.470s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/parent_prefix_path/bocbot
+[1.470s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/ament_prefix_path.sh
+[1.471s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/ament_prefix_path.dsv
+[1.471s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/path.sh
+[1.471s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/path.dsv
+[1.471s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.bash
+[1.471s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.sh
+[1.471s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.zsh
+[1.471s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.dsv
+[1.471s] -- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/package.dsv
+[1.482s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/packages/bocbot
+[1.482s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/cmake/bocbotConfig.cmake
+[1.482s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/cmake/bocbotConfig-version.cmake
+[1.482s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/package.xml
+[1.485s] Invoked command in '/home/ephrem/bocbot_ws/build/bocbot' returned '0': /usr/bin/cmake --install /home/ephrem/bocbot_ws/build/bocbot

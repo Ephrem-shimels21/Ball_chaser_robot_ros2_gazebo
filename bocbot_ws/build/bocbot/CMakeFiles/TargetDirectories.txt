@@ -1,0 +1,10 @@
+/home/ephrem/bocbot_ws/build/bocbot/CMakeFiles/uninstall.dir
+/home/ephrem/bocbot_ws/build/bocbot/CMakeFiles/bocbot_uninstall.dir
+/home/ephrem/bocbot_ws/build/bocbot/CMakeFiles/media_files.dir
+/home/ephrem/bocbot_ws/build/bocbot/CMakeFiles/test.dir
+/home/ephrem/bocbot_ws/build/bocbot/CMakeFiles/edit_cache.dir
+/home/ephrem/bocbot_ws/build/bocbot/CMakeFiles/rebuild_cache.dir
+/home/ephrem/bocbot_ws/build/bocbot/CMakeFiles/list_install_components.dir
+/home/ephrem/bocbot_ws/build/bocbot/CMakeFiles/install.dir
+/home/ephrem/bocbot_ws/build/bocbot/CMakeFiles/install/local.dir
+/home/ephrem/bocbot_ws/build/bocbot/CMakeFiles/install/strip.dir

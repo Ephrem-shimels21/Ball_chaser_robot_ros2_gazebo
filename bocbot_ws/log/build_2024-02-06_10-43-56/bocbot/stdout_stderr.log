@@ -1,0 +1,37 @@
+-- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+-- xacro: determining deps for: /home/ephrem/bocbot_ws/src/bocbot/urdf/bocbot.urdf.xacro ...
+-- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ephrem/bocbot_ws/build/bocbot
+[100%] Built target media_files
+-- Install configuration: ""
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/worlds
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/worlds/bocbot_office.world
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.urdf
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.gazebo
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.urdf.xacro
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/launch
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/launch/world.launch.py
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/package_run_dependencies/bocbot
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/parent_prefix_path/bocbot
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/ament_prefix_path.sh
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/path.sh
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/path.dsv
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.bash
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.sh
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.zsh
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.dsv
+-- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/package.dsv
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/packages/bocbot
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/cmake/bocbotConfig.cmake
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/cmake/bocbotConfig-version.cmake
+-- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/package.xml

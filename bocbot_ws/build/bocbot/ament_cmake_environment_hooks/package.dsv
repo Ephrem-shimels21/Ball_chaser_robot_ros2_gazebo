@@ -1,0 +1,4 @@
+source;share/bocbot/local_setup.bash
+source;share/bocbot/local_setup.dsv
+source;share/bocbot/local_setup.sh
+source;share/bocbot/local_setup.zsh

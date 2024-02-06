@@ -1,0 +1,29 @@
+[0.168s] Invoking command in '/home/ephrem/bocbot_ws/build/bocbot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ephrem/bocbot_ws/build/bocbot -- -j4 -l4
+[0.262s] [100%] Built target media_files
+[0.284s] Invoked command in '/home/ephrem/bocbot_ws/build/bocbot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ephrem/bocbot_ws/build/bocbot -- -j4 -l4
+[0.344s] Invoking command in '/home/ephrem/bocbot_ws/build/bocbot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ephrem/bocbot_ws/build/bocbot
+[0.354s] -- Install configuration: ""
+[0.355s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/worlds
+[0.355s] -- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/worlds/bocbot_office.world
+[0.355s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf
+[0.355s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.urdf
+[0.356s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.gazebo
+[0.356s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/urdf/bocbot.urdf.xacro
+[0.356s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/launch
+[0.356s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/launch/world.launch.py
+[0.357s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/package_run_dependencies/bocbot
+[0.357s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/parent_prefix_path/bocbot
+[0.357s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/ament_prefix_path.sh
+[0.357s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/ament_prefix_path.dsv
+[0.358s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/path.sh
+[0.358s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/environment/path.dsv
+[0.358s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.bash
+[0.358s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.sh
+[0.358s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.zsh
+[0.360s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/local_setup.dsv
+[0.361s] -- Installing: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/package.dsv
+[0.361s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/ament_index/resource_index/packages/bocbot
+[0.361s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/cmake/bocbotConfig.cmake
+[0.362s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/cmake/bocbotConfig-version.cmake
+[0.362s] -- Up-to-date: /home/ephrem/bocbot_ws/install/bocbot/share/bocbot/package.xml
+[0.363s] Invoked command in '/home/ephrem/bocbot_ws/build/bocbot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ephrem/bocbot_ws/build/bocbot
